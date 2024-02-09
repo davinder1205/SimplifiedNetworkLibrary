@@ -1,0 +1,6 @@
+framework module Pods_SimplifiedNetworkSDK {
+  umbrella header "Pods-SimplifiedNetworkSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
